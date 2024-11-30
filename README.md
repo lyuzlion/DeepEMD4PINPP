@@ -1,2 +1,2 @@
 # DeepEMD4PINPP
-DeepEMD for partimagenet++ dataset
+DeepEMD for partimagenet++ dataset.
